@@ -32,4 +32,4 @@ https://api.mylnikov.org/geolocation/wifi?bssid=""" + m + """&data=open&v=1.1
 	webbrowser.open("https://api.mylnikov.org/geolocation/wifi?bssid=" + a + "&data=open&v=1.1", new=2)
 elif a == "i":
 		print("""\033[37mПодробно о пробиве по MAC-Адресу читайте здесь:
-\033[31mhttps://github.com/SHMAT-HACK \033[32mили \033[31mhttps://t.me/SHMAT-HACK\033[37m""")
+\033[31mhttps://github.com/SHMAT-HACK \033[32mили \033[31mhttps://t.me/SHMAT_Hack\033[37m""")
